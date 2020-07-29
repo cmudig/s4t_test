@@ -1,2 +1,5 @@
 # s4t_test
-Streamit for teams test repo
+
+Streamlit for teams test repo.
+
+Check out the deployed version at https://s4a.streamlit.io/cmudig/s4t_test/master/streamlit_app.py/+/. 
